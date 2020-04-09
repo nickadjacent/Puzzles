@@ -1,0 +1,11 @@
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.deps.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.dev.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.pdb
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csprojAssemblyReference.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csproj.CoreCompileInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfoInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfo.cs
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.pdb
